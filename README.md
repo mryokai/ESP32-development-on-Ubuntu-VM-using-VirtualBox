@@ -24,6 +24,8 @@ groups username
 
 sudo adduser username dialout
 
+logout and login
+
 
 Plug in ESP32
 
