@@ -32,6 +32,12 @@ groups username
 
 sudo adduser username dialout
 
+    Added my user to the dialout group
+    Added user to the tty group
+    Added user to the vboxusers group (did this a bit earlier)
+    Also added user to the vboxsf group, although that didn't directly apply to this issue
+    Added user permisions: "Use modems" and "Use VirtualBox virtualization solutions."
+
 Power off
 
 
