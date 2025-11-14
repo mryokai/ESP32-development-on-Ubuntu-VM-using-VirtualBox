@@ -6,9 +6,9 @@ Install VirtualBox
 
 Download ubuntu desktop iso
 
-Create new VM and start it
+Create new VM (4GB RAM, 80GB disk) and start it
 
-Make sure connect to wifi
+Install ubuntu and make sure connect to ethernet
 
 sudo update && sudo upgrade -y
 
