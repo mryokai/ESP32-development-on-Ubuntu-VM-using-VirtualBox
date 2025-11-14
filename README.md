@@ -2,6 +2,8 @@
 
 Enable VT-x in BIOS
 
+Install Silabs driver
+
 Install VirtualBox
 
 Download ubuntu desktop iso
