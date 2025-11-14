@@ -46,6 +46,12 @@ minicom -8 -b 115200 -D /dev/ttyUSB0
 
 sudo apt install arduino
 
+arduino (do not sudo arduino)
+
+Install ESP32 boards
+
+
+
 
 
 
