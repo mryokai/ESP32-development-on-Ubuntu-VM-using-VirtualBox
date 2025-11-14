@@ -4,6 +4,8 @@ Enable VT-x in BIOS
 
 Install Silabs driver
 
+Plug in ESP32 board and make sure it can be accessed by teraterm
+
 Install VirtualBox
 
 Download ubuntu desktop iso
@@ -16,9 +18,11 @@ sudo apt update
 
 sudo apt upgrade -y
 
+sudo apt install bzip2
+
 Mount Guest Addition ISO to VM as a cd-rom
 
-Run the script: sudo ./VBoxLinuxAdditions.run
+Run the script: sudo /media/wl/VBox_GAs_7.2.4/VBoxLinuxAdditions.run
 
 sudo apt install minicom
 
@@ -29,6 +33,7 @@ groups username
 sudo adduser username dialout
 
 Power off
+
 
 Start again
 
