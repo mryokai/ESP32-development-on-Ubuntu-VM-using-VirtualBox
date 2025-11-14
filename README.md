@@ -8,9 +8,9 @@ Install VirtualBox
 
 Download ubuntu desktop iso
 
-Create new VM (must >4GB RAM, 80GB disk) and start it
+Create new VM (must >4GB RAM, 80GB disk, skip unattended install) and start it
 
-Install ubuntu (basic installation) and make sure connect to ethernet
+Install ubuntu (basic installation because smaller)
 
 sudo apt update 
 
