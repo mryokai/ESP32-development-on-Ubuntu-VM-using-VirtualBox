@@ -48,6 +48,7 @@ lsusb or ls /dev/tty*
 
 Plug in ESP32
 
+Add usb filter or
 
 Device -> USB -> Select the Silabs
 
